@@ -26,3 +26,6 @@ This project analyzes supply chain operations to identify inventory trends, logi
 - Dashboard Development
 - DAX Measures
 - Business Analysis
+# Dashboard Preview
+
+![Supply Chain Dashboard](dashboard1.jpg)
