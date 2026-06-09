@@ -28,4 +28,4 @@ This project analyzes supply chain operations to identify inventory trends, logi
 - Business Analysis
 # Dashboard Preview
 
-![Supply Chain Dashboard](dashboard1.jpg)
+![Supply Chain Dashboard](Supply_chain_analysis_dashboard1.jpg)
